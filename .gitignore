@@ -5,9 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+.python_version
+.ipynb_checkpoints/
 
 # Virtual environments
 .venv
 torch_env/
 
 .ipynb_checkpoints/
+wandb/
